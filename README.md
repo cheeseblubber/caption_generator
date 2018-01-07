@@ -15,8 +15,8 @@ Amazon.com's product page focused primarily on clothing products.
 
 See:
 
-[first version](https://github.com/cheeseblubber/caption_generator/blob/master/notebooks/model_setup.ipynb)
-[second version](https://github.com/cheeseblubber/caption_generator/blob/master/notebooks/test_out_model.ipynb)
+- [first version](https://github.com/cheeseblubber/caption_generator/blob/master/notebooks/model_setup.ipynb)
+- [second version](https://github.com/cheeseblubber/caption_generator/blob/master/notebooks/test_out_model.ipynb)
 
 ### Decoder Model
 
