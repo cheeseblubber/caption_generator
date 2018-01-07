@@ -18,7 +18,7 @@ See:
 [first version](https://github.com/cheeseblubber/caption_generator/blob/master/notebooks/model_setup.ipynb)
 [second version](https://github.com/cheeseblubber/caption_generator/blob/master/notebooks/test_out_model.ipynb)
 
-### Model
+### Decoder Model
 
 ```
 FCModel(
@@ -39,6 +39,7 @@ FCModel(
 - Load pretrained weights of the model - Need to randomize word values in embedding of missing words
 - try different vocab embeddings
 - try training embeddings separately with descriptions then loading the model in
+- try a smaller Image recognizer model
 - Original time constraint of 72 hours limited how much training could be done 
 	- continue to train model
 
